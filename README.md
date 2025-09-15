@@ -107,7 +107,7 @@ After signing up for AWS, it’s important to secure your root user, enable _IAM
 
 ![alt text](Output-2.png)
 
-## ![alt text](Output-3.png)
+![alt text](Output-3.png)
 
 # Result
 
